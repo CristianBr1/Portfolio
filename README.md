@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="150px" src="https://github.com/CristianBr1/Portfolio/blob/main/images/curriculum.gif" alt="GIF de currículo" />
-</p>
 
 <h1 align="center">📁 Portfolio - Página Responsiva</h1>
 
