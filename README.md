@@ -6,7 +6,7 @@
 <h2  align="center"🚀 GitHub Pages:</h2>
 
 <p align="center">
-  <a href="https://cristianbrum.github.io/Portfolio/" target="_blank">
+  <a href="https://cristianbr1.github.io/Portfolio/" target="_blank">
     <img width="100px" src="https://github.com/CristianBr1/Portfolio/blob/main/images/target.png" alt="Acesse o site" />
   </a>
 </p>
