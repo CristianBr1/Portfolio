@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150px" src="https://github.com/CristianBr1/-PraTi-Aulas/blob/main/Lista%20de%20Exerc%C3%ADcios%204/images/curriculum.gif" alt="GIF de currículo" />
+  <img width="150px" src="https://github.com/CristianBr1/Portfolio/blob/main/images/curriculum.gif" alt="GIF de currículo" />
 </p>
 
 <h1 align="center">📁 Portfolio - Página Responsiva</h1>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://cristianbrum.github.io/Portfolio/" target="_blank">
-    <img width="100px" src="https://github.com/CristianBr1/-PraTi-Aulas/blob/main/Lista%20de%20Exerc%C3%ADcios%204/images/target.png" alt="Acesse o site" />
+    <img width="100px" src="https://github.com/CristianBr1/Portfolio/blob/main/images/target.png" alt="Acesse o site" />
   </a>
 </p>
 <p align="center">Clique na imagem para visitar</p>
@@ -39,14 +39,14 @@
 
 <p align="center">
   <a href="https://github.com/CristianBr1" target="_blank">
-    <img width="30px" src="https://github.com/CristianBr1/-PraTi-Aulas/blob/main/Lista%20de%20Exerc%C3%ADcios%204/images/GH.png" alt="GitHub" />
+    <img width="30px" src="https://github.com/CristianBr1/Portfolio/blob/main/images/GH.png" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/cristianbrum/" target="_blank">
-    <img width="30px" src="https://github.com/CristianBr1/-PraTi-Aulas/blob/main/Lista%20de%20Exerc%C3%ADcios%204/images/linkedin.png" alt="LinkedIn" />
+    <img width="30px" src="https://github.com/CristianBr1/Portfolio/blob/main/images/linkedin.png" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/cristianbrum/" target="_blank">
-    <img width="30px" src="https://github.com/CristianBr1/-PraTi-Aulas/blob/main/Lista%20de%20Exerc%C3%ADcios%204/images/instagram.png" alt="Instagram" />
+    <img width="30px" src="https://github.com/CristianBr1/Portfolio/blob/main/images/instagram.png" alt="Instagram" />
   </a>
 </p>
